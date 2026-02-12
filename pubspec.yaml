@@ -1,0 +1,28 @@
+name: pagination_list_view
+description: A Flutter package providing a customizable ListView with built-in pagination, pull-to-refresh, and infinite scrolling capabilities.
+version: 1.0.0
+# TODO: Replace with your actual GitHub username before publishing
+# homepage: https://github.com/YOURUSERNAME/pagination_list_view
+# repository: https://github.com/YOURUSERNAME/pagination_list_view
+# issue_tracker: https://github.com/YOURUSERNAME/pagination_list_view/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# Topics help users discover your package on pub.dev
+topics:
+  - listview
+  - pagination
+  - infinite-scroll
+  - refresh
+  - widget
